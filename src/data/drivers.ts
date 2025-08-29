@@ -1,0 +1,22 @@
+export const drivers = [
+    { name: "Pierre Gasly", team: "Alpine", country: "France", carNumber: 10, birthdate: "1996-02-07", championships: 0, debutYear: 2017 },
+    { name: "Franco Colapinto", team: "Alpine", country: "Argentina", carNumber: 43, birthdate: "2003-05-27", championships: 0, debutYear: 2025 },
+    { name: "Lance Stroll", team: "Aston Martin", country: "Canada", carNumber: 18, birthdate: "1998-10-29", championships: 0, debutYear: 2017 },
+    { name: "Fernando Alonso", team: "Aston Martin", country: "Spain", carNumber: 14, birthdate: "1981-07-29", championships: 2, debutYear: 2001 },
+    { name: "Charles Leclerc", team: "Ferrari", country: "Monaco", carNumber: 16, birthdate: "1997-10-16", championships: 0, debutYear: 2018 },
+    { name: "Lewis Hamilton", team: "Ferrari", country: "United Kingdom", carNumber: 44, birthdate: "1985-01-07", championships: 7, debutYear: 2007 },
+    { name: "Esteban Ocon", team: "Haas", country: "France", carNumber: 31, birthdate: "1996-09-17", championships: 0, debutYear: 2016 },
+    { name: "Oliver Bearman", team: "Haas", country: "United Kingdom", carNumber: 87, birthdate: "2005-05-08", championships: 0, debutYear: 2025 },
+    { name: "Nico Hulkenberg", team: "Kick Sauber", country: "Germany", carNumber: 27, birthdate: "1987-08-19", championships: 0, debutYear: 2010 },
+    { name: "Gabriel Bortoleto", team: "Kick Sauber", country: "Brazil", carNumber: 50, birthdate: "2004-10-14", championships: 0, debutYear: 2025 },
+    { name: "Lando Norris", team: "McLaren", country: "United Kingdom", carNumber: 4, birthdate: "1999-11-13", championships: 0, debutYear: 2019 },
+    { name: "Oscar Piastri", team: "McLaren", country: "Australia", carNumber: 81, birthdate: "2001-04-06", championships: 0, debutYear: 2023 },
+    { name: "George Russell", team: "Mercedes", country: "United Kingdom", carNumber: 63, birthdate: "1998-02-15", championships: 0, debutYear: 2019 },
+    { name: "Kimi Antonelli", team: "Mercedes", country: "Italy", carNumber: 7, birthdate: "2006-08-25", championships: 0, debutYear: 2025 },
+    { name: "Max Verstappen", team: "Red Bull Racing", country: "Netherlands", carNumber: 1, birthdate: "1997-09-30", championships: 3, debutYear: 2015 },
+    { name: "Yuki Tsunoda", team: "Red Bull Racing", country: "Japan", carNumber: 22, birthdate: "2000-05-11", championships: 0, debutYear: 2021 },
+    { name: "Liam Lawson", team: "Racing Bulls", country: "New Zealand", carNumber: 30, birthdate: "2002-02-11", championships: 0, debutYear: 2023 },
+    { name: "Isack Hadjar", team: "Racing Bulls", country: "France", carNumber: 20, birthdate: "2004-09-28", championships: 0, debutYear: 2025 },
+    { name: "Alexander Albon", team: "Williams", country: "Thailand", carNumber: 23, birthdate: "1996-03-23", championships: 0, debutYear: 2019 },
+    { name: "Carlos Sainz", team: "Williams", country: "Spain", carNumber: 55, birthdate: "1994-09-01", championships: 0, debutYear: 2015 }
+  ];
