@@ -29,7 +29,7 @@ Fórmula 1.
 Clone o repositório e instale as dependências:
 
 ``` bash
-git clone https://github.com/seu-usuario/f1-api.git
+git clone https://github.com/joaoandrade07/api-formula-1.git
 cd api-formula-1
 npm install
 ```
